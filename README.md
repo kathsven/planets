@@ -1,3 +1,3 @@
-#Planets REpo
+#Planets Repo#
 
 My very **first** repository
